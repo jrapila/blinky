@@ -1,5 +1,6 @@
 {
     "name": "Blinky",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "adafruit-feather-m0-express": "*"
